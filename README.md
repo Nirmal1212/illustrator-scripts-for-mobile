@@ -28,4 +28,4 @@ Forked from https://github.com/herkulano/illustrator-scripts-for-mobile
 
 ### License
 
-[BSD]
+[BSD](https://github.com/herkulano/illustrator-scripts-for-mobile/blob/master/LICENSE)
