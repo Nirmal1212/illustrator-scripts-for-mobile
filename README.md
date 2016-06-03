@@ -1,8 +1,10 @@
 # illustrator-scripts-for-mobile
-Our App Designer was very tired of exporting assets in different screen sizes and at multiple resolutions. I found a guy implemented this at https://github.com/herkulano/illustrator-scripts-for-mobile . I forked this and added some changes to handle retina 3x for Ios and Android xxhdpi, xxxhdpi. This repo has an Illustrator script which will export assets at different resolutions for Android &amp; IOS
+Our App Designer was very tired of exporting assets in different screen sizes and at multiple resolutions. The following implementation by https://github.com/herkulano/illustrator-scripts-for-mobile helps us to export smarter. I have made some changes to handle retina 3x on IOS and xxhdpi, xxxhdpi on Android. This repo has an Illustrator script which will export assets at different resolutions for Android &amp; IOS
 
+This Adobe Illustrator Script exports layers or artboards to PNGs of different densities (iOS Retina Display, Android Devices, etc) as follows:
+* Android - mdpi, hdpi, xhdpi, xxhdpi, xxxhdpi
+* IOS - 1x, 2x, 3x
 
-This Adobe Illustrator Script exports layers or artboards to PNGs of different densities (iOS Retina Display, Android Devices, etc).
 
 ### How to install
 
